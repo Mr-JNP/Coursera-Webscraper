@@ -1,0 +1,405 @@
+Course,Provider,Type,Rating,Enrollment,Difficulty
+Python for Everybody,University of Michigan,SPECIALIZATION,4.8,1.2m,Beginner
+Python 3 Programming,University of Michigan,SPECIALIZATION,4.7,83k,Beginner
+IBM Data Science,IBM,PROFESSIONAL CERTIFICATE,4.6,400k,Beginner
+Google IT Automation with Python,Google,PROFESSIONAL CERTIFICATE,4.7,49k,Beginner
+Applied Data Science with Python,University of Michigan,SPECIALIZATION,4.5,420k,Intermediate
+Programming for Everybody (Getting Started with Python),University of Michigan,COURSE,4.8,1.1m,Mixed
+Python for Data Science and AI,IBM,COURSE,4.6,140k,Beginner
+Основы программирования на Python,National Research University Higher School of Economics,COURSE,4.6,73k,Beginner
+Introducción a la programación en Python I: Aprendiendo a programar con Python,Pontificia Universidad Católica de Chile,COURSE,4.5,93k,Beginner
+Python Basics,University of Michigan,COURSE,4.8,70k,Beginner
+Python Programming: A Concise Introduction,Wesleyan University,COURSE,4.6,91k,Beginner
+Программирование на Python,Mail.Ru Group,SPECIALIZATION,4.6,49k,Intermediate
+Learn to Program: The Fundamentals,University of Toronto,COURSE,4.8,160k,Beginner
+Crash Course on Python,Google,COURSE,4.7,44k,Beginner
+Deep Learning,deeplearning.ai,SPECIALIZATION,4.8,600k,Intermediate
+Introduction to Data Science in Python,University of Michigan,COURSE,4.5,330k,Intermediate
+Introdução à Ciência da Computação com Python Parte 1,Universidade de São Paulo,COURSE,4.9,110k,Beginner
+Statistics with Python,University of Michigan,SPECIALIZATION,4.6,26k,Beginner
+Introduction to Scripting in Python,Rice University,SPECIALIZATION,4.7,40k,Beginner
+Aprende a programar con Python,Universidad Austral,SPECIALIZATION,4.3,5.3k,Beginner
+IBM AI Engineering,IBM,PROFESSIONAL CERTIFICATE,4.7,110k,Intermediate
+Fundamentals of Computing,Rice University,SPECIALIZATION,4.8,190k,Beginner
+Machine Learning for Analytics MasterTrack™ Certificate,University of Chicago,MASTERTRACK™ CERTIFICATE,None,None,None
+Master of Computer Science,Arizona State University,DEGREE,None,None,None
+Master of Data Science,HSE University,DEGREE,None,None,None
+Machine Learning with Python,IBM,COURSE,4.7,99k,Intermediate
+Python Classes and Inheritance,University of Michigan,COURSE,4.7,15k,Intermediate
+Python Data Products for Predictive Analytics,University of California San Diego,SPECIALIZATION,4.2,7.5k,Intermediate
+Python and Statistics for Financial Analysis,The Hong Kong University of Science and Technology,COURSE,4.4,27k,Beginner
+Машинное обучение и анализ данных,E-Learning Development Fund,SPECIALIZATION,4.7,74k,Intermediate
+Machine Learning for Trading,Google Cloud,SPECIALIZATION,3.8,12k,Intermediate
+Advanced Data Science with IBM,IBM,SPECIALIZATION,4.3,54k,Advanced
+Data Analysis with Python,IBM,COURSE,4.7,87k,Beginner
+Погружение в Python,ФРОО,COURSE,4.7,42k,Intermediate
+Machine Learning,Stanford University,COURSE,4.9,3m,Mixed
+IBM Applied AI,IBM,PROFESSIONAL CERTIFICATE,4.6,180k,Beginner
+Математика и Python для анализа данных,E-Learning Development Fund,COURSE,4.8,64k,Beginner
+An Introduction to Interactive Programming in Python (Part 1),Rice University,COURSE,4.8,150k,Mixed
+Investment Management with Python and Machine Learning,EDHEC Business School,SPECIALIZATION,4.6,9.4k,Beginner
+Python Data Structures,University of Michigan,COURSE,4.9,350k,Mixed
+Python Programming Essentials,Rice University,COURSE,4.8,30k,Beginner
+用Python玩转数据 Data Processing Using Python,Nanjing University,COURSE,4.6,69k,Mixed
+Introducción a la programación con Python,Universidad Austral,COURSE,4.2,4k,Beginner
+Using Python to Access Web Data,University of Michigan,COURSE,4.8,270k,Mixed
+Introdução à Ciência da Computação com Python Parte 2,Universidade de São Paulo,COURSE,4.9,13k,Beginner
+Data Collection and Processing with Python,University of Michigan,COURSE,4.7,14k,Intermediate
+Machine Learning,University of Washington,SPECIALIZATION,4.6,270k,Intermediate
+Principles of Computing (Part 1),Rice University,COURSE,4.8,23k,Intermediate
+Создание Web-сервисов на Python,ФРОО,COURSE,4.3,7.4k,Intermediate
+Master of Science in Data Science,University of Colorado Boulder,DEGREE,None,None,None
+Using Databases with Python,University of Michigan,COURSE,4.8,200k,Mixed
+Data Visualization with Python,IBM,COURSE,4.6,53k,Intermediate
+Understanding and Visualizing Data with Python,University of Michigan,COURSE,4.7,22k,Beginner
+Using Python to Interact with the Operating System,Google,COURSE,4.7,10k,Beginner
+Foundations of Data Science: K-Means Clustering in Python,University of London,COURSE,4.7,4.4k,Beginner
+"Applied Plotting, Charting & Data Representation in Python",University of Michigan,COURSE,4.5,88k,Intermediate
+"Python Functions, Files, and Dictionaries",University of Michigan,COURSE,4.8,18k,Beginner
+"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,COURSE,4.6,65k,Mixed
+Introduction to Portfolio Construction and Analysis with Python,EDHEC Business School,COURSE,4.9,7.8k,Mixed
+Applied Machine Learning in Python,University of Michigan,COURSE,4.6,140k,Intermediate
+Inferential Statistical Analysis with Python,University of Michigan,COURSE,4.5,9.4k,Intermediate
+Applied Text Mining in Python,University of Michigan,COURSE,4.2,70k,Intermediate
+Accounting Data Analytics with Python,University of Illinois at Urbana-Champaign,COURSE,None,None,None
+Python for Genomic Data Science,Johns Hopkins University,COURSE,4.3,27k,Mixed
+"Python Project: pillow, tesseract, and opencv",University of Michigan,COURSE,4.2,10k,Intermediate
+Machine Learning for Accounting with Python,University of Illinois at Urbana-Champaign,COURSE,None,None,None
+Fitting Statistical Models to Data with Python,University of Michigan,COURSE,4.5,7.7k,Intermediate
+Applied Social Network Analysis in Python,University of Michigan,COURSE,4.7,40k,Intermediate
+Advanced Portfolio Construction and Analysis with Python,EDHEC Business School,COURSE,4.7,2.7k,Intermediate
+"Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python",Ludwig-Maximilians-Universität München (LMU),COURSE,4.8,4.9k,Intermediate
+Python Data Representations,Rice University,COURSE,4.8,9k,Beginner
+"Problem Solving, Python Programming, and Video Games",University of Alberta,COURSE,4.3,7.4k,Beginner
+Python and Machine Learning for Asset Management,EDHEC Business School,COURSE,3.2,2.5k,Intermediate
+The Raspberry Pi Platform and Python Programming for the Raspberry Pi,"University of California, Irvine",COURSE,4.6,72k,Mixed
+ООП и паттерны проектирования в Python,ФРОО,COURSE,3.8,7.2k,Intermediate
+用 Python 做商管程式設計（一）(Programming for Business Computing in Python (1)),National Taiwan University,COURSE,4.9,9.8k,Beginner
+Python and Machine-Learning for Asset Management with Alternative Data Sets,EDHEC Business School,COURSE,4.6,1.6k,Intermediate
+Automating Real-World Tasks with Python,Google,COURSE,None,None,None
+An Introduction to Interactive Programming in Python (Part 2),Rice University,COURSE,4.9,34k,Beginner
+Python Data Analysis,Rice University,COURSE,4.7,13k,Beginner
+Python для анализа данных,ФРОО,COURSE,4.5,5.5k,Intermediate
+Data Processing Using Python,Nanjing University,COURSE,4.3,22k,Beginner
+Python Data Visualization,Rice University,COURSE,4.8,7.8k,Beginner
+Global Warming II: Create Your Own Models in Python,The University of Chicago,COURSE,4.2,7.6k,Mixed
+Project: Computer Vision - Image Basics with OpenCV and Python,Rhyme,NEW,None,None,None
+Estructuras de datos en Python,Universidad Austral,COURSE,None,None,None
+Project: Linear Regression with NumPy and Python,Rhyme,NEW,None,None,None
+Manejo de bases de datos con Python,Universidad Austral,COURSE,None,None,None
+Project: Logistic Regression with Python and Numpy,Rhyme,NEW,None,None,None
+Project: Analyze Box Office Data with Seaborn and Python,Rhyme,NEW,None,None,None
+Project: Language Classification with Naive Bayes in Python,Rhyme,NEW,None,None,None
+"Project: Classification Trees in Python, From Start To Finish",Rhyme,NEW,None,None,None
+Programación Orientada a Objetos con Python,Universidad Austral,COURSE,None,None,None
+Project: Computer Vision - Object Detection with OpenCV and Python,Rhyme,NEW,None,None,None
+用 Python 做商管程式設計（二）(Programming for Business Computing in Python (2)),National Taiwan University,COURSE,4.5,3.5k,Intermediate
+用 Python 做商管程式設計（三）(Programming for Business Computing in Python (3)),National Taiwan University,COURSE,4.9,2.6k,Mixed
+Project: Logistic Regression with NumPy and Python,Rhyme,NEW,None,None,None
+Using SAS Viya REST APIs with Python and R,SAS,COURSE,None,None,None
+Project: Analyze Box Office Data with Plotly and Python,Rhyme,NEW,None,None,None
+Project: Video Basics with OpenCV and Python,Rhyme,NEW,None,None,None
+Project: Clustering Geolocation Data Intelligently in Python,Rhyme,NEW,None,None,None
+Project: Linear Regression with Python,Rhyme,NEW,None,None,None
+Project: Traffic Sign Classification Using Deep Learning in Python/Keras,Rhyme,NEW,None,None,None
+Project: Image Denoising Using AutoEncoders in Keras and Python,Rhyme,NEW,None,None,None
+"Project: Support Vector Machines in Python, From Start to Finish",Rhyme,NEW,None,None,None
+Introduction to Data Science,IBM,SPECIALIZATION,4.6,260k,Beginner
+Applied Data Science,IBM,SPECIALIZATION,4.6,180k,Beginner
+Mathematics for Machine Learning,Imperial College London,SPECIALIZATION,4.6,130k,Beginner
+Neural Networks and Deep Learning,deeplearning.ai,COURSE,4.9,540k,Intermediate
+Data Science Methodology,IBM,COURSE,4.6,72k,Beginner
+Computational Thinking for Problem Solving,University of Pennsylvania,COURSE,4.8,26k,Beginner
+Mathematics for Machine Learning: Linear Algebra,Imperial College London,COURSE,4.7,120k,Beginner
+Natural Language Processing in TensorFlow,deeplearning.ai,COURSE,4.6,30k,Intermediate
+Biology Meets Programming: Bioinformatics for Beginners,University of California San Diego,COURSE,4.4,81k,Beginner
+Applied Data Science Capstone,IBM,COURSE,4.7,33k,Intermediate
+Machine Learning for All,University of London,COURSE,4.6,4.6k,Beginner
+Data Analysis and Interpretation,Wesleyan University,SPECIALIZATION,4.4,100k,Beginner
+Introduction to Self-Driving Cars,University of Toronto,COURSE,4.8,24k,Advanced
+Machine Learning Foundations: A Case Study Approach,University of Washington,COURSE,4.6,210k,Mixed
+Fundamentals of Scalable Data Science,IBM,COURSE,4.3,25k,Beginner
+Scalable Machine Learning on Big Data using Apache Spark,IBM,COURSE,4,7.2k,Intermediate
+How Google does Machine Learning,Google Cloud,COURSE,4.6,56k,Intermediate
+"Big Data Essentials: HDFS, MapReduce and Spark RDD",Yandex,COURSE,4,35k,Intermediate
+Введение в машинное обучение,National Research University Higher School of Economics,COURSE,4.6,89k,Mixed
+Introduction to Git and GitHub,Google,COURSE,4.8,8.5k,Beginner
+Deep Neural Networks with PyTorch,IBM,COURSE,4.4,7.5k,Intermediate
+Introduction to Deep Learning & Neural Networks with Keras,IBM,COURSE,4.7,6.3k,Intermediate
+Introduction to MongoDB,MongoDB Inc.,COURSE,4.4,23k,Intermediate
+Introduction to Machine Learning,Duke University,COURSE,4.6,14k,Intermediate
+Data Science in Stratified Healthcare and Precision Medicine,The University of Edinburgh,COURSE,4.6,6.7k,Intermediate
+Introduction to Deep Learning,National Research University Higher School of Economics,COURSE,4.6,61k,Advanced
+Using Machine Learning in Trading and Finance,Google Cloud,COURSE,3.9,4.3k,Intermediate
+Advanced Machine Learning and Signal Processing,IBM,COURSE,4.5,14k,Advanced
+Natural Language Processing,National Research University Higher School of Economics,COURSE,4.5,54k,Advanced
+Applied AI with DeepLearning,IBM,COURSE,4.4,31k,Advanced
+Intro to TensorFlow,Google Cloud,COURSE,4.5,18k,Intermediate
+Machine Learning: Regression,University of Washington,COURSE,4.8,100k,Mixed
+Competitive Programmer's Core Skills,Saint Petersburg State University,COURSE,4.6,16k,Intermediate
+End-to-End Machine Learning with TensorFlow on GCP,Google Cloud,COURSE,4.5,23k,Advanced
+AI Capstone Project with Deep Learning,IBM,COURSE,4.3,2.3k,Advanced
+Learn to Program: Crafting Quality Code,University of Toronto,COURSE,4.6,40k,Mixed
+Basic Data Processing and Visualization,University of California San Diego,COURSE,4.3,5.1k,Intermediate
+Data Management and Visualization,Wesleyan University,COURSE,4.4,50k,Mixed
+Fundamentals of Machine Learning in Finance,New York University Tandon School of Engineering,COURSE,3.8,12k,Intermediate
+Построение выводов по данным,Yandex,COURSE,4.7,16k,Advanced
+Data Analytics Foundations for Accountancy I,University of Illinois at Urbana-Champaign,COURSE,4.5,4k,Mixed
+Введение в науку о данных (An Introduction to Data Science),Saint Petersburg State University,COURSE,3.8,4.7k,Mixed
+Advanced Algorithms and Complexity,National Research University Higher School of Economics,COURSE,4.6,37k,Advanced
+Overview of Advanced Methods of Reinforcement Learning in Finance,New York University Tandon School of Engineering,COURSE,3.8,5.7k,Advanced
+Machine Learning Algorithms: Supervised Learning Tip to Tail,Alberta Machine Intelligence Institute,COURSE,4.7,1.8k,Mixed
+Algorithmic Thinking (Part 1),Rice University,COURSE,4.7,37k,Intermediate
+Data Analysis Tools,Wesleyan University,COURSE,4.5,34k,Mixed
+Audio Signal Processing for Music Applications,Universitat Pompeu Fabra of Barcelona,COURSE,4.8,35k,Intermediate
+Master of Machine Learning and Data Science,Imperial College London,DEGREE,None,None,None
+Google IT Support,Google,PROFESSIONAL CERTIFICATE,4.8,280k,Beginner
+Data Visualization with Tableau,"University of California, Davis",SPECIALIZATION,4.5,85k,Beginner
+Learning How to Learn: Powerful mental tools to help you master tough subjects,University of California San Diego,COURSE,4.8,2.1m,Mixed
+Ruby on Rails Web Development,Johns Hopkins University,SPECIALIZATION,4.8,290k,Intermediate
+"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",Stanford University,COURSE,4.8,120k,Intermediate
+"Introduction to Trading, Machine Learning & GCP",New York Institute of Finance,COURSE,3.9,11k,Intermediate
+"HTML, CSS, and Javascript for Web Developers",Johns Hopkins University,COURSE,4.8,200k,Mixed
+Data Structures,National Research University Higher School of Economics,COURSE,4.7,110k,Intermediate
+How to Win a Data Science Competition: Learn from Top Kagglers,National Research University Higher School of Economics,COURSE,4.7,57k,Advanced
+Interactive Computer Graphics,The University of Tokyo,COURSE,4.3,42k,Intermediate
+Getting started with TensorFlow 2,Imperial College London,COURSE,None,None,None
+Project: Data Visualization with Plotly Express,Rhyme,NEW,None,None,None
+Project: Custom Prediction Routine on Google AI Platform,Rhyme,NEW,None,None,None
+Google Cloud Platform Big Data and Machine Learning Fundamentals auf Deutsch,Google Cloud,COURSE,None,None,None
+Networks Illustrated: Principles without Calculus,Princeton University,COURSE,4.4,12k,Beginner
+Reinforcement Learning,University of Alberta,SPECIALIZATION,4.7,18k,Intermediate
+Genomic Data Science,Johns Hopkins University,SPECIALIZATION,4.4,74k,Intermediate
+AI Foundations for Everyone,IBM,SPECIALIZATION,4.7,48k,Beginner
+What is Data Science?,IBM,COURSE,4.7,210k,Beginner
+Open Source tools for Data Science,IBM,COURSE,4.6,96k,Beginner
+"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deeplearning.ai,COURSE,4.9,240k,Beginner
+Self-Driving Cars,University of Toronto,SPECIALIZATION,4.7,28k,Advanced
+An Introduction to Programming the Internet of Things (IOT),"University of California, Irvine",SPECIALIZATION,4.6,240k,Beginner
+Bioinformatics,University of California San Diego,SPECIALIZATION,4.6,53k,Beginner
+Introduction to Discrete Mathematics for Computer Science,National Research University Higher School of Economics,SPECIALIZATION,4.5,64k,Beginner
+Structuring Machine Learning Projects,deeplearning.ai,COURSE,4.8,200k,Beginner
+Convolutional Neural Networks,deeplearning.ai,COURSE,4.9,220k,Intermediate
+Convolutional Neural Networks in TensorFlow,deeplearning.ai,COURSE,4.7,38k,Intermediate
+Databases and SQL for Data Science,IBM,COURSE,4.7,95k,Beginner
+"Modern Robotics:  Mechanics, Planning, and Control",Northwestern University,SPECIALIZATION,4.7,18k,Intermediate
+IBM AI Enterprise Workflow,IBM,SPECIALIZATION,4.5,2.7k,Advanced
+Robotics,University of Pennsylvania,SPECIALIZATION,4.4,110k,Beginner
+Sequence Models,deeplearning.ai,COURSE,4.8,170k,Intermediate
+Machine Learning and Reinforcement Learning in Finance,New York University Tandon School of Engineering,SPECIALIZATION,3.7,27k,Intermediate
+Cloud Computing,University of Illinois at Urbana-Champaign,SPECIALIZATION,4.4,110k,Intermediate
+"Sequences, Time Series and Prediction",deeplearning.ai,COURSE,4.6,24k,Intermediate
+Fundamentals of Reinforcement Learning,Alberta Machine Intelligence Institute,COURSE,4.8,18k,Intermediate
+Introduction to Artificial Intelligence (AI),IBM,COURSE,4.7,33k,Beginner
+Mathematics for Machine Learning: Multivariate Calculus,Imperial College London,COURSE,4.7,44k,Beginner
+Algorithmic Toolbox,National Research University Higher School of Economics,COURSE,4.7,190k,Intermediate
+Computational Neuroscience,University of Washington,COURSE,4.7,64k,Beginner
+Digital Signal Processing,École Polytechnique Fédérale de Lausanne,COURSE,4.7,64k,Intermediate
+Machine Learning: Algorithms in the Real World,Alberta Machine Intelligence Institute,SPECIALIZATION,4.6,5.5k,Intermediate
+Discrete Optimization,The University of Melbourne,COURSE,4.9,37k,Intermediate
+Data Science at Scale,University of Washington,SPECIALIZATION,4.2,72k,Intermediate
+Building Batch Data Pipelines on GCP,Google Cloud,COURSE,4.5,3.1k,Intermediate
+Data-driven Astronomy,The University of Sydney,COURSE,4.8,13k,Intermediate
+Mathematics for Machine Learning: PCA,Imperial College London,COURSE,4,30k,Intermediate
+Mathematical Thinking in Computer Science,National Research University Higher School of Economics,COURSE,4.4,41k,Beginner
+Finding Hidden Messages in DNA (Bioinformatics I),University of California San Diego,COURSE,4.7,41k,Beginner
+Industrial IoT on Google Cloud Platform,Google Cloud,COURSE,4.6,11k,Beginner
+Social Media Data Analytics,Rutgers the State University of New Jersey,COURSE,4.1,21k,Intermediate
+Data Engineering on Google Cloud Platform en Español,Google Cloud,SPECIALIZATION,4.6,8.5k,Intermediate
+Hadoop Platform and Application Framework,University of California San Diego,COURSE,3.9,130k,Mixed
+Troubleshooting and Debugging Techniques,Google,COURSE,4.6,4.4k,Beginner
+Introducción a la inteligencia artificial,Universidad Nacional Autónoma de México,SPECIALIZATION,4.7,5.4k,Intermediate
+"Modern Robotics, Course 1:  Foundations of Robot Motion",Northwestern University,COURSE,4.7,16k,Intermediate
+Обучение на размеченных данных,E-Learning Development Fund,COURSE,4.8,25k,Intermediate
+Guided Tour of Machine Learning in Finance,New York University Tandon School of Engineering,COURSE,3.8,19k,Intermediate
+Reinforcement Learning for Trading Strategies,Google Cloud,COURSE,3.8,3.1k,Intermediate
+Configuration Management and the Cloud,Google,COURSE,4.7,3.5k,Beginner
+AI Workflow: Business Priorities and Data Ingestion,IBM,COURSE,None,None,None
+Building Deep Learning Models with TensorFlow,IBM,COURSE,4.3,3.7k,Intermediate
+Data Engineering on Google Cloud Platform 日本語版,Google Cloud,SPECIALIZATION,4.5,2.6k,Intermediate
+Machine Learning with TensorFlow on Google Cloud Platform en Español,Google Cloud,SPECIALIZATION,4.5,2.2k,Intermediate
+Discrete Math and Analyzing Social Graphs,National Research University Higher School of Economics,COURSE,4.7,4.3k,Mixed
+Машинное обучение в финансах,Sberbank Corporate University,COURSE,4.5,3.8k,Intermediate
+Algorithms for DNA Sequencing,Johns Hopkins University,COURSE,4.8,19k,Mixed
+機器學習基石上 (Machine Learning Foundations)---Mathematical Foundations,National Taiwan University,COURSE,4.9,29k,Beginner
+Building AI Applications with Watson APIs,IBM,COURSE,4.2,3.7k,Intermediate
+Advanced Data Science Capstone,IBM,COURSE,4.6,5.1k,Advanced
+Distributed Computing with Spark SQL,"University of California, Davis",COURSE,4.3,2.4k,Intermediate
+Machine Learning: Classification,University of Washington,COURSE,4.7,79k,Mixed
+VLSI CAD Part I: Logic,University of Illinois at Urbana-Champaign,COURSE,4.8,19k,Intermediate
+Developing AI Applications on Azure,LearnQuest,COURSE,4.5,5.7k,Advanced
+Introduction to Computer Vision with Watson and OpenCV,IBM,COURSE,4.4,7.2k,Beginner
+Introduction to numerical analysis,National Research University Higher School of Economics,COURSE,4.7,7.4k,Intermediate
+Machine Learning: Clustering & Retrieval,University of Washington,COURSE,4.6,59k,Mixed
+Big Data Integration and Processing,University of California San Diego,COURSE,4.4,34k,Beginner
+Data Manipulation at Scale: Systems and Algorithms,University of Washington,COURSE,4.3,51k,Mixed
+Introduction to Graph Theory,National Research University Higher School of Economics,COURSE,4.6,19k,Beginner
+Practical Reinforcement Learning,National Research University Higher School of Economics,COURSE,4.1,26k,Advanced
+Art and Science of Machine Learning,Google Cloud,COURSE,4.6,9.4k,Intermediate
+Materials Data Sciences and Informatics,Georgia Institute of Technology,COURSE,4.3,6.2k,Intermediate
+Combinatorics and Probability,National Research University Higher School of Economics,COURSE,4.6,17k,Beginner
+Поиск структуры в данных,Yandex,COURSE,4.7,16k,Intermediate
+Matrix Methods,University of Minnesota,COURSE,4.1,1.7k,Intermediate
+Number Theory and Cryptography,National Research University Higher School of Economics,COURSE,4.6,13k,Beginner
+"Разработка веб-сервисов на Golang, часть 2",ФРОО,COURSE,4.9,6k,Intermediate
+機器學習基石下 (Machine Learning Foundations)---Algorithmic Foundations,National Taiwan University,COURSE,4.9,7.9k,Intermediate
+Big Data: adquisición y almacenamiento de datos,Universitat Autònoma de Barcelona,COURSE,4.3,2.7k,Intermediate
+Genome Sequencing (Bioinformatics II),University of California San Diego,COURSE,4.7,14k,Beginner
+AI Workflow: Data Analysis and Hypothesis Testing,IBM,COURSE,None,None,None
+Introduction to Accounting Data Analytics and Visualization,University of Illinois at Urbana-Champaign,COURSE,None,None,None
+Algorithms on Strings,National Research University Higher School of Economics,COURSE,4.5,39k,Intermediate
+Project: Basic Image Classification with TensorFlow,Rhyme,NEW,None,None,None
+Прикладные задачи анализа данных,Yandex,COURSE,4.4,13k,Intermediate
+Detección de objetos,Universitat Autònoma de Barcelona,COURSE,4.6,20k,Mixed
+AI Workflow: Feature Engineering and Bias Detection,IBM,COURSE,None,None,None
+Google Cloud Platform Big Data and Machine Learning Fundamentals en Español,Google Cloud,COURSE,4.6,8.2k,Intermediate
+البرمجة للجميع - بدء استخدام بايثون,University of Michigan,COURSE,None,None,None
+"AI Workflow: Machine Learning, Visual Recognition and NLP",IBM,COURSE,None,None,None
+Project: Predicting House Prices with Regression using TensorFlow,Rhyme,NEW,None,None,None
+Delivery Problem,University of California San Diego,COURSE,4.7,6k,Beginner
+Interfacing with the Raspberry Pi,"University of California, Irvine",COURSE,4.6,48k,Mixed
+Pattern Discovery in Data Mining,University of Illinois at Urbana-Champaign,COURSE,4.2,26k,Mixed
+AI Workflow: Enterprise Model Deployment,IBM,COURSE,None,None,None
+"Comparing Genes, Proteins, and Genomes (Bioinformatics III)",University of California San Diego,COURSE,4.7,9.3k,Beginner
+AI Workflow: AI in Production,IBM,COURSE,None,None,None
+Machine Learning for Data Analysis,Wesleyan University,COURSE,4.2,35k,Mixed
+Design Thinking and Predictive Analytics for Data Products,University of California San Diego,COURSE,4.4,2.3k,Intermediate
+Google Cloud Platform Big Data and Machine Learning Fundamentals 日本語版,Google Cloud,COURSE,4.5,1.8k,Intermediate
+Building R Packages,Johns Hopkins University,COURSE,4.1,7.1k,Intermediate
+Principles of Computing (Part 2),Rice University,COURSE,4.8,11k,Mixed
+Project: Predict Sales Revenue with scikit-learn,Rhyme,NEW,None,None,None
+Project: Facial Expression Recognition with Keras,Rhyme,NEW,None,None,None
+Clasificación de imágenes: ¿cómo reconocer el contenido de una imagen?,Universitat Autònoma de Barcelona,COURSE,4.4,11k,Mixed
+Big Data - Capstone Project,University of California San Diego,COURSE,4.5,3.1k,Mixed
+Algorithmic Thinking (Part 2),Rice University,COURSE,4.7,15k,Intermediate
+Deploying Machine Learning Models,University of California San Diego,COURSE,3.8,2.2k,Mixed
+How Google does Machine Learning en Español,Google Cloud,COURSE,None,None,None
+Communicating Data Science Results,University of Washington,COURSE,3.6,13k,Mixed
+Cloud Networking,University of Illinois at Urbana-Champaign,COURSE,4.5,24k,Mixed
+Intro to TensorFlow en Español,Google Cloud,COURSE,None,None,None
+Regression Modeling in Practice,Wesleyan University,COURSE,4.4,28k,Mixed
+Finding Mutations in DNA and Proteins (Bioinformatics VI),University of California San Diego,COURSE,4.6,7k,Beginner
+Анализ данных: финальный проект,Yandex,COURSE,4.7,1.9k,Advanced
+Programming for the Internet of Things Project,"University of California, Irvine",COURSE,4.7,5.1k,Mixed
+Razonamiento artificial,Universidad Nacional Autónoma de México,COURSE,4.4,1.5k,Intermediate
+الشبكات العصبية والتعلم العميق,deeplearning.ai,COURSE,None,None,None
+Meaningful Predictive Modeling,University of California San Diego,COURSE,4.3,1.5k,Intermediate
+Internet of Things: Multimedia Technologies,University of California San Diego,COURSE,4.4,13k,Mixed
+Robotics: Capstone,University of Pennsylvania,COURSE,None,None,None
+Data Analytics Foundations for Accountancy II,University of Illinois at Urbana-Champaign,COURSE,None,None,None
+Project: Neural Style Transfer with TensorFlow,Rhyme,NEW,None,None,None
+Data Analysis and Interpretation Capstone,Wesleyan University,COURSE,None,None,None
+The Fundamentals of Computing Capstone Exam,Rice University,COURSE,None,None,None
+Data Science at Scale - Capstone Project,University of Washington,COURSE,None,None,None
+Maestría en Ingeniería de Software,la Universidad de los Andes,DEGREE,None,None,None
+C for Everyone: Structured Programming,"University of California, Santa Cruz",COURSE,4.8,2.8k,Intermediate
+Introduction To Swift Programming,University of Toronto,COURSE,3.9,59k,Mixed
+Project: Principal Component Analysis with NumPy,Rhyme,NEW,None,None,None
+Developing Applications with Google Cloud Platform,Google Cloud,SPECIALIZATION,4.7,250k,Intermediate
+Object Oriented Programming in Java,Duke University,SPECIALIZATION,4.7,300k,Beginner
+Разработка интерфейсов: вёрстка и JavaScript,E-Learning Development Fund,SPECIALIZATION,4.5,27k,Intermediate
+Google Cloud Platform Big Data and Machine Learning Fundamentals,Google Cloud,COURSE,4.6,100k,Intermediate
+Mathematics for Data Science,National Research University Higher School of Economics,SPECIALIZATION,4.5,6.7k,Beginner
+Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,COURSE,4.8,170k,Intermediate
+Getting Started with Go,"University of California, Irvine",COURSE,4.6,14k,Intermediate
+Разработка веб-сервисов на Go - основы языка,ФРОО,COURSE,4.8,22k,Intermediate
+Prediction and Control with Function Approximation,Alberta Machine Intelligence Institute,COURSE,4.8,3.9k,Intermediate
+Getting Started With Application Development,Google Cloud,COURSE,4.5,13k,Intermediate
+State Estimation and Localization for Self-Driving Cars,University of Toronto,COURSE,4.7,8.5k,Advanced
+Big Data Analysis with Scala and Spark,École Polytechnique Fédérale de Lausanne,COURSE,4.7,71k,Mixed
+Functional Program Design in Scala,École Polytechnique Fédérale de Lausanne,COURSE,4.5,49k,Intermediate
+Managing Security in Google Cloud Platform,Google Cloud,COURSE,4.7,11k,Intermediate
+Motion Planning for Self-Driving Cars,University of Toronto,COURSE,4.8,5.4k,Advanced
+Visualization for Data Journalism,University of Illinois at Urbana-Champaign,COURSE,None,None,None
+Visual Perception for Self-Driving Cars,University of Toronto,COURSE,4.6,6.9k,Advanced
+Securing and Integrating Components of your Application,Google Cloud,COURSE,4.6,7.8k,Intermediate
+Mitigating Security Vulnerabilities on Google Cloud Platform,Google Cloud,COURSE,4.7,4.3k,Intermediate
+"App Deployment, Debugging, and Performance",Google Cloud,COURSE,4.6,8.2k,Intermediate
+Parallel programming,École Polytechnique Fédérale de Lausanne,COURSE,4.4,48k,Intermediate
+Introduction to advanced tomography,Technical University of Denmark (DTU),COURSE,None,None,None
+Production Machine Learning Systems,Google Cloud,COURSE,4.6,6.8k,Advanced
+Project: Deploy Models with TensorFlow Serving and Flask,Rhyme,NEW,None,None,None
+Sequence Models for Time Series and Natural Language Processing,Google Cloud,COURSE,4.4,5k,Advanced
+Project: Predictive Modelling with Azure Machine Learning Studio,Rhyme,NEW,None,None,None
+"Modern Robotics, Course 2:  Robot Kinematics",Northwestern University,COURSE,4.9,4.6k,Intermediate
+Image Understanding with TensorFlow on GCP,Google Cloud,COURSE,4.6,4.6k,Advanced
+"Modern Robotics, Course 3:  Robot Dynamics",Northwestern University,COURSE,4.8,3.4k,Intermediate
+VLSI CAD Part II: Layout,University of Illinois at Urbana-Champaign,COURSE,4.7,8.2k,Intermediate
+Data for Machine Learning,Alberta Machine Intelligence Institute,COURSE,None,None,None
+Optimizing Machine Learning Performance,Alberta Machine Intelligence Institute,COURSE,None,None,None
+"Probability Theory, Statistics and Exploratory Data Analysis",National Research University Higher School of Economics,COURSE,4,1.6k,Mixed
+"Modern Robotics, Course 4:  Robot Motion Planning and Control",Northwestern University,COURSE,4.9,3.5k,Intermediate
+Project: Siamese Network with Triplet Loss in Keras,Rhyme,NEW,None,None,None
+Project: Multiple Linear Regression with scikit-learn,Rhyme,NEW,None,None,None
+Project: Understanding Deepfakes with Keras,Rhyme,NEW,None,None,None
+Project: Perform Sentiment Analysis with scikit-learn,Rhyme,NEW,None,None,None
+Project: Image Classification with CNNs using Keras,Rhyme,NEW,None,None,None
+Project: Machine Learning Pipelines with Azure ML Studio,Rhyme,NEW,None,None,None
+Desarrollo de Videojuegos en Unity: Una Introducción,Universidad de los Andes,COURSE,4.5,19k,Beginner
+Project: Simple Recurrent Neural Network with Keras,Rhyme,NEW,None,None,None
+Project: Deep Learning Inference with Azure ML Studio,Rhyme,NEW,None,None,None
+Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro,Google Cloud,COURSE,None,None,None
+Project: Image Noise Reduction with Auto-encoders using TensorFlow,Rhyme,NEW,None,None,None
+"Modern Robotics, Course 5:  Robot Manipulation and Wheeled Mobile Robots",Northwestern University,COURSE,4.7,2.4k,Intermediate
+Serverless Machine Learning with Tensorflow on Google Cloud Platform 日本語版,Google Cloud,COURSE,None,None,None
+Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform 日本語版,Google Cloud,COURSE,None,None,None
+"Project: Save, Load and Export Models with Keras",Rhyme,NEW,None,None,None
+Project: Classification with Transfer Learning in Keras,Rhyme,NEW,None,None,None
+Serverless Data Analysis with Google BigQuery and Cloud Dataflow en Español,Google Cloud,COURSE,None,None,None
+Serverless Machine Learning con TensorFlow en GCP,Google Cloud,COURSE,None,None,None
+Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform en Español,Google Cloud,COURSE,None,None,None
+Serverless Data Analysis with Google BigQuery and Cloud Dataflow em Português Brasileiro,Google Cloud,COURSE,None,None,None
+Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform em Português Brasileiro,Google Cloud,COURSE,None,None,None
+Project: Creating Custom Callbacks in Keras,Rhyme,NEW,None,None,None
+Project: Exploratory Data Analysis with Seaborn,Rhyme,NEW,None,None,None
+Project: Perform Real-Time Object Detection with YOLOv3,Rhyme,NEW,None,None,None
+Project: Named Entity Recognition using LSTMs with Keras,Rhyme,COURSE,None,None,None
+Project: Build Random Forests in R with Azure ML Studio,Rhyme,NEW,None,None,None
+Google Cloud Platform Big Data and Machine Learning Fundamentals en Français,Google Cloud,COURSE,None,None,None
+Engineering Practices for Building Quality Software,University of Minnesota,COURSE,None,None,None
+Project: Statistical Data Visualization with Seaborn,Rhyme,NEW,None,None,None
+Serverless Data Analysis with Google BigQuery and Cloud Dataflow 日本語版,Google Cloud,COURSE,None,None,None
+Project: Image Data Augmentation with Keras,Rhyme,NEW,None,None,None
+Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro,Google Cloud,COURSE,None,None,None
+Project: Neural Network from Scratch in TensorFlow,Rhyme,NEW,None,None,None
+Project: Image Super Resolution Using Autoencoders in Keras,Rhyme,NEW,None,None,None
+"Modern Robotics, Course 6:  Capstone Project, Mobile Manipulation",Northwestern University,COURSE,4.9,1.7k,Intermediate
+Serverless Machine Learning with Tensorflow on Google Cloud Platform en Français,Google Cloud,COURSE,None,None,None
+Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform en Français,Google Cloud,COURSE,None,None,None
+Serverless Data Analysis with Google BigQuery and Cloud Dataflow en Français,Google Cloud,COURSE,None,None,None
+Project: Support Vector Machines with scikit-learn,Rhyme,NEW,None,None,None
+Project: Image Compression with K-Means Clustering,Rhyme,NEW,None,None,None
+Project: Create Custom Layers in Keras,Rhyme,NEW,None,None,None
+Project: Predict Employee Turnover with scikit-learn,Rhyme,NEW,None,None,None
+Resolución de problemas por búsqueda,Universidad Nacional Autónoma de México,COURSE,None,None,None
+Project: Classify Radio Signals from Space using Keras,Rhyme,NEW,None,None,None
+Project: Analyze Text Data with Yellowbrick,Rhyme,NEW,None,None,None
+Creatividad computacional,Universidad Nacional Autónoma de México,COURSE,None,None,None
+Customising your models with TensorFlow 2,Imperial College London,COURSE,None,None,None
+Project: Regression Analysis with Yellowbrick,Rhyme,NEW,None,None,None
+Project: Evaluate Machine Learning Models with Yellowbrick,Rhyme,NEW,None,None,None
+Project: Visual Machine Learning with Yellowbrick,Rhyme,NEW,None,None,None
+Project: Perform Feature Analysis with Yellowbrick,Rhyme,NEW,None,None,None
+Project: Regression with Automatic Differentiation in TensorFlow,Rhyme,NEW,None,None,None
+Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform auf Deutsch,Google Cloud,COURSE,None,None,None
+Project: Build Multilayer Perceptron Models with Keras,Rhyme,COURSE,None,None,None
+Serverless Data Analysis with Google BigQuery and Cloud Dataflow auf Deutsch,Google Cloud,COURSE,None,None,None
+Serverless Machine Learning with Tensorflow on Google Cloud Platform auf Deutsch,Google Cloud,COURSE,None,None,None
+Interaction Design,University of California San Diego,SPECIALIZATION,4.5,150k,Intermediate
+Data Warehousing for Business Intelligence,University of Colorado System,SPECIALIZATION,4.5,130k,Advanced
+Fundamentals of Visualization with Tableau,"University of California, Davis",COURSE,4.5,71k,Beginner
+Development of Secure Embedded Systems,EIT Digital ,SPECIALIZATION,4.3,50k,Intermediate
+"Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames",Yandex,COURSE,4,16k,Advanced
+"Data Warehouse Concepts, Design, and Data Integration",University of Colorado System,COURSE,4.4,35k,Mixed
+Embedded Hardware and Operating Systems,EIT Digital ,COURSE,4.2,32k,Intermediate
+"Designing, Running, and Analyzing Experiments",University of California San Diego,COURSE,3.7,21k,Intermediate
+Cloud Computing Concepts: Part 2,University of Illinois at Urbana-Champaign,COURSE,4.6,19k,Mixed
+"Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud",University of Illinois at Urbana-Champaign,COURSE,4.2,17k,Mixed
+Master of Science in Accounting,University of Illinois at Urbana-Champaign,DEGREE,None,None,None
+Julia Scientific Programming,University of Cape Town,COURSE,4.5,19k,Beginner
+Managing Big Data with MySQL,Duke University,COURSE,4.7,120k,Mixed
+"Smart Analytics, Machine Learning, and AI on GCP",Google Cloud,COURSE,4.5,2.1k,Intermediate
+Introduction to Virtual Reality,University of London,COURSE,4.7,14k,Beginner
+Launching into Machine Learning en Español,Google Cloud,COURSE,None,None,None
+MongoDB Aggregation Framework,MongoDB Inc.,COURSE,4.7,4.3k,Intermediate
+Achieving Advanced Insights with BigQuery 日本語版,Google Cloud,COURSE,None,None,None
